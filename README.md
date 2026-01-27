@@ -50,6 +50,15 @@ This repository contains **high-level architectures, simulations, and non-offens
 - Mesh networking (simulation level)  
 - Search & rescue support scenarios
 
+  ### 🟨 Septa DV (4-5-6) — EW / DFSDR |  پهپاد های ناظر فرکانس و شکارچی 
+- Observer and discoverer of ka /ku
+- Checking for disturbing and alien signals
+- Thermal movement monitoring
+- Rescuer in critical situations
+- Smart in assigned missions
+
+> ⚠️ محتوای پرنده های نسخه چهارم پنجم ششم عمومی نبستند و محتوای امنیت ملی در آن لحاظ شده و در حد تحقیقات و شبیه سازی باقی خواهد ماند و ارائه نخواهد شد.
+> 
 > ⚠️ Advanced or sensitive capabilities are **intentionally excluded** from this public repository.
 
 ---
@@ -76,7 +85,7 @@ septa/
 
 ## 🧭 Ethics & Scope | اخلاق و محدوده
 This project is non-offensive and research-only
-No weaponization, jamming, or destructive instructions
+No weaponization, jamming, or destructive instructions ( in Septa 1,2,3 )
 Designed for civilian, humanitarian, and academic purposes
 
 ## 🗺️ Roadmap (High-Level)
