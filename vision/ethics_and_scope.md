@@ -1,22 +1,19 @@
 # 🧭 Ethics & Scope  
-## اخلاق، محدوده و چارچوب استفاده پروژه سپتا
 
 ---
 
-## 🇮🇷 بخش فارسی
-
 ### مقدمه
-پروژه **سپتا** با رویکردی پژوهشی، غیرتهاجمی و اخلاق‌محور طراحی شده است.  
-این سند به‌منظور شفاف‌سازی **محدوده، خطوط قرمز و اصول اخلاقی** پروژه تهیه شده تا از هرگونه سوءبرداشت یا استفاده نادرست جلوگیری شود.
+پروژه [ سپتا ] با رویکردی پژوهشی، غیرتهاجمی و اخلاق‌محور طراحی شده است.  
+این سند به‌منظور شفاف‌سازی (محدوده، خطوط قرمز و اصول اخلاقی) پروژه تهیه شده تا از هرگونه سوءبرداشت یا استفاده نادرست جلوگیری شود.
 
 ---
 
 ### اصول اخلاقی سپتا
-- **Human-Centered Design**: انسان در مرکز تصمیم‌گیری باقی می‌ماند.
-- **Non-Offensive by Design**: معماری پروژه ذاتاً غیرتهاجمی است.
-- **Transparency**: اهداف و محدودیت‌ها به‌صورت شفاف مستندسازی می‌شوند.
-- **Accountability**: هر توسعه یا استفاده باید قابل پاسخ‌گویی باشد.
-- **Compliance First**: تبعیت از قوانین محلی، ملی و بین‌المللی الزامی است.
+- Human-Centered Design: انسان در مرکز تصمیم‌گیری باقی می‌ماند.
+- Non-Offensive by Design: معماری پروژه ذاتاً غیرتهاجمی است.
+- Transparency: اهداف و محدودیت‌ها به‌صورت شفاف مستندسازی می‌شوند.
+- Accountability: هر توسعه یا استفاده باید قابل پاسخ‌گویی باشد.
+- Compliance First: تبعیت از قوانین محلی، ملی و بین‌المللی الزامی است.
 
 ---
 
@@ -31,7 +28,7 @@
 ---
 
 ### موارد خارج از محدوده
-این مخزن **شامل یا پشتیبان** موارد زیر نیست:
+این مخزن (شامل یا پشتیبان) موارد زیر نیست:
 - تسلیح، تخریب یا آسیب فیزیکی/الکترونیکی
 - جمر، اختلال عمدی یا ازکاراندازی زیرساخت‌ها
 - شناسایی یا هدف‌گیری عملیاتی منابع راداری/مخابراتی
@@ -52,17 +49,17 @@
 ## 🇬🇧 English Section
 
 ### Introduction
-**Septa** is designed as a **research-oriented, non-offensive, and ethics-first project**.  
+<Septa> is designed as a (research-oriented, non-offensive, and ethics-first project).  
 This document defines the ethical principles and scope boundaries to ensure responsible use and development.
 
 ---
 
 ### Ethical Principles
-- **Human-in-the-Loop** decision making
-- **Non-Offensive by Design**
-- **Transparency and openness**
-- **Accountability and responsibility**
-- **Legal and regulatory compliance**
+- [Human-in-the-Loop] decision making
+- [Non-Offensive by Design]
+- [Transparency and openness]
+- [Accountability and responsibility]
+- [Legal and regulatory compliance]
 
 ---
 
@@ -102,4 +99,4 @@ Any real-world application must comply with:
 - Aviation and communication regulations
 - Ethical and humanitarian standards
 
-The maintainers of this repository are **not responsible** for misuse or unauthorized adaptations.
+The maintainers of this repository are (not responsible) for misuse or unauthorized adaptations.
