@@ -57,7 +57,7 @@ This repository contains **high-level architectures, simulations, and non-offens
 
 ## 📐 Repository Structure
 
-'''text
+```text
 septa/
 ├── README.md
 ├── vision/
@@ -72,9 +72,19 @@ septa/
 ├── simulations/
 │   └── network_models.md
 └── roadmap.md
-'''
+```
 
 ## 🧭 Ethics & Scope | اخلاق و محدوده
 This project is non-offensive and research-only
 No weaponization, jamming, or destructive instructions
 Designed for civilian, humanitarian, and academic purposes
+
+## 🗺️ Roadmap (High-Level)
+Phase 1: Concept & architecture documentation
+Phase 2: Network and fleet simulations
+Phase 3: Data pipelines & dashboards (conceptual)
+Phase 4: Academic collaboration & validation
+
+## 🤝 Contribution
+Ideas, discussions, and conceptual contributions are welcome.
+Please respect the ethical boundaries of the project.
