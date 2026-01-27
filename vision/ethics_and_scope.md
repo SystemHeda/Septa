@@ -54,12 +54,18 @@ This document defines the ethical principles and scope boundaries to ensure resp
 
 ---
 
+### Introduction
+**Septa** is designed as a **research-oriented, non-offensive, and ethics-first project**.  
+This document defines the ethical principles and scope boundaries to ensure responsible use and development.
+
+---
+
 ### Ethical Principles
-- [Human-in-the-Loop] decision making
-- [Non-Offensive by Design]
-- [Transparency and openness]
-- [Accountability and responsibility]
-- [Legal and regulatory compliance]
+- **Human-in-the-Loop** decision making
+- **Non-Offensive by Design**
+- **Transparency and openness**
+- **Accountability and responsibility**
+- **Legal and regulatory compliance**
 
 ---
 
@@ -99,4 +105,4 @@ Any real-world application must comply with:
 - Aviation and communication regulations
 - Ethical and humanitarian standards
 
-The maintainers of this repository are (not responsible) for misuse or unauthorized adaptations.
+The maintainers of this repository are **not responsible** for misuse or unauthorized adaptations
