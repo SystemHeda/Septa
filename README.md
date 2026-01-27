@@ -63,7 +63,6 @@ This repository contains **high-level architectures, simulations, and non-offens
 
 ---
 
-
 ## 📐 Repository Structure
 
 ```text
@@ -93,6 +92,20 @@ Phase 1: Concept & architecture documentation
 Phase 2: Network and fleet simulations
 Phase 3: Data pipelines & dashboards (conceptual)
 Phase 4: Academic collaboration & validation
+
+## 📚 Project Documentation | مستندات پروژه
+
+- 🛰️ **Project Vision | چشم‌انداز پروژه**  
+  [`vision/septa_overview.md`](vision/septa_overview.md)
+
+- 🧭 **Ethics & Scope | اخلاق و محدوده پروژه**  
+  [`vision/ethics_and_scope.md`](vision/ethics_and_scope.md)
+
+- 🧠 **DV-1 Mother Station Architecture | معماری ایستگاه مادر**  
+  [`dv1_mother_station/architecture.md`](dv1_mother_station/architecture.md)
+
+- 🗺️ **Project Roadmap | نقشه راه**  
+  [`roadmap.md`](roadmap.md)
 
 ## 🤝 Contribution
 Ideas, discussions, and conceptual contributions are welcome.
