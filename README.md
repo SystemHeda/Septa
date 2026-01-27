@@ -50,7 +50,7 @@ This repository contains **high-level architectures, simulations, and non-offens
 - Mesh networking (simulation level)  
 - Search & rescue support scenarios
 
-  ### 🟨 Septa DV (4-5-6) — EW / DFSDR |  پهپاد های ناظر فرکانس و شکارچی 
+### ⬛ Septa DV (4-5-6) — EW / DFSDR |  پهپاد های ناظر فرکانس و شکارچی 
 - Observer and discoverer of ka /ku
 - Checking for disturbing and alien signals
 - Thermal movement monitoring
