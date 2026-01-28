@@ -52,13 +52,13 @@
 <Septa> is designed as a (research-oriented, non-offensive, and ethics-first project).  
 This document defines the ethical principles and scope boundaries to ensure responsible use and development.
 
----
+ ---
 
 ### Introduction
 **Septa** is designed as a **research-oriented, non-offensive, and ethics-first project**.  
 This document defines the ethical principles and scope boundaries to ensure responsible use and development.
 
----
+ ---
 
 ### Ethical Principles
 - **Human-in-the-Loop** decision making
