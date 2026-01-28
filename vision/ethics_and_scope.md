@@ -48,19 +48,19 @@
 
 ## 🇬🇧 English Section
 
-### Introduction
+## Introduction
 <Septa> is designed as a (research-oriented, non-offensive, and ethics-first project).  
 This document defines the ethical principles and scope boundaries to ensure responsible use and development.
 
 ---
 
-### Introduction
+## Introduction
 **Septa** is designed as a **research-oriented, non-offensive, and ethics-first project**.  
 This document defines the ethical principles and scope boundaries to ensure responsible use and development.
 
 ---
 
-### Ethical Principles
+## Ethical Principles
 - **Human-in-the-Loop** decision making
 - **Non-Offensive by Design**
 - **Transparency and openness**
@@ -69,7 +69,7 @@ This document defines the ethical principles and scope boundaries to ensure resp
 
 ---
 
-### In-Scope Content
+## In-Scope Content
 This repository includes:
 - High-level system architectures
 - Conceptual and research documents
@@ -79,7 +79,7 @@ This repository includes:
 
 ---
 
-### Out-of-Scope Content
+## Out-of-Scope Content
 This repository explicitly excludes:
 - Weaponization or destructive systems
 - Jamming, interference, or disruption techniques
@@ -89,7 +89,7 @@ This repository explicitly excludes:
 
 ---
 
-### Intended Use
+## Intended Use
 Septa is intended for:
 - Academic research
 - Conceptual system design
