@@ -633,4 +633,180 @@
                             <div class="module-header">
                                 <div class="module-icon">
                                     <i class="fas fa-first-aid"></i>
+                                </div>
+                                <div>
+                                    <div class="module-name">Septa DV-3</div>
+                                    <div class="module-desc">پهپاد شرایط اضطراری | Emergency & Resilience Drone</div>
+                                </div>
+                            </div>
+                            
+                            <ul class="module-features">
+                                <li><i class="fas fa-wifi"></i> مفاهیم ارتباطی اضطراری</li>
+                                <li><i class="fas fa-network-wired"></i> شبکه‌سازی مش (در سطح شبیه‌سازی)</li>
+                                <li><i class="fas fa-search"></i> سناریوهای پشتیبانی جستجو و نجات</li>
+                            </ul>
+                        </div>
+                        
+                        <!-- DV 4-5-6 -->
+                        <div class="module-card module-4">
+                            <div class="module-header">
+                                <div class="module-icon">
+                                    <i class="fas fa-shield-alt"></i>
+                                </div>
+                                <div>
+                                    <div class="module-name">Septa DV (4-5-6)</div>
+                                    <div class="module-desc">پهپاد‌های ناظر فرکانس و شکارچی | EW / DFSDR</div>
+                                </div>
+                            </div>
+                            
+                            <ul class="module-features">
+                                <li><i class="fas fa-satellite"></i> نظارت و کشف فرکانس‌های Ka/Ku</li>
+                                <li><i class="fas fa-exclamation-triangle"></i> بررسی سیگنال‌های مزاحم و بیگانه</li>
+                                <li><i class="fas fa-fire"></i> نظارت حرکات حرارتی</li>
+                                <li><i class="fas fa-life-ring"></i> امداد در شرایط بحرانی</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <!-- هشدار امنیتی -->
+                    <div class="security-warning">
+                        <div class="warning-header">
+                            <i class="fas fa-exclamation-triangle warning-icon"></i>
+                            <div>
+                                <h3 style="color: #d84315; margin: 0;">هشدار امنیتی و محدودیت‌های انتشار</h3>
+                            </div>
+                        </div>
+                        
+                        <p>⚠️ محتوای پرنده‌های نسخه چهارم، پنجم و ششم عمومی نیستند و محتوای امنیت ملی در آن لحاظ شده است. این محتوا در حد تحقیقات و شبیه‌سازی باقی خواهد ماند و ارائه نخواهد شد.</p>
+                        <p style="margin-top: 15px; font-weight: 600;">⚠️ قابلیت‌های پیشرفته یا حساس به عمد از این مخزن عمومی حذف شده‌اند.</p>
+                    </div>
+                </section>
+                
+                <!-- ساختار پروژه -->
+                <section class="structure-section">
+                    <h2 class="section-title">
+                        <i class="fas fa-folder-tree"></i>
+                        ساختار مخزن
+                    </h2>
+                    
+                    <div class="code-block">
+                        <span style="color: #64b5f6;">septa/</span><br>
+                        <div class="tree-line">README.md</div>
+                        <div class="tree-line">vision/</div>
+                        <div style="margin-left: 40px;" class="tree-line">septa_overview.md</div>
+                        <div style="margin-left: 40px;" class="tree-line">ethics_and_scope.md</div>
+                        
+                        <div class="tree-line">dv1_mother_station/</div>
+                        <div style="margin-left: 40px;" class="tree-line">architecture.md</div>
+                        
+                        <div class="tree-line">dv2_mapping_drone/</div>
+                        <div style="margin-left: 40px;" class="tree-line">capabilities.md</div>
+                        
+                        <div class="tree-line">dv3_emergency_drone/</div>
+                        <div style="margin-left: 40px;" class="tree-line">use_cases.md</div>
+                        
+                        <div class="tree-line">simulations/</div>
+                        <div style="margin-left: 40px;" class="tree-line">network_models.md</div>
+                        
+                        <div class="tree-line">roadmap.md</div>
+                    </div>
+                </section>
+                
+                <!-- مستندات پروژه -->
+                <section class="intro-section">
+                    <h2 class="section-title">
+                        <i class="fas fa-book"></i>
+                        مستندات پروژه
+                    </h2>
+                    
+                    <div class="docs-grid">
+                        <a href="#" class="doc-card">
+                            <div class="doc-icon">
+                                <i class="fas fa-eye"></i>
+                            </div>
+                            <h3>چشم‌انداز پروژه</h3>
+                            <p>مستندات کامل چشم‌انداز و اهداف سپتا</p>
+                            <div style="color: var(--accent); margin-top: 15px;">
+                                <i class="fas fa-external-link-alt"></i> vision/septa_overview.md
+                            </div>
+                        </a>
+                        
+                        <a href="#" class="doc-card">
+                            <div class="doc-icon">
+                                <i class="fas fa-gavel"></i>
+                            </div>
+                            <h3>اخلاف و محدوده</h3>
+                            <p>اصول اخلاقی و محدودیت‌های پروژه</p>
+                            <div style="color: var(--accent); margin-top: 15px;">
+                                <i class="fas fa-external-link-alt"></i> vision/ethics_and_scope.md
+                            </div>
+                        </a>
+                        
+                        <a href="#" class="doc-card">
+                            <div class="doc-icon">
+                                <i class="fas fa-server"></i>
+                            </div>
+                            <h3>معماری ایستگاه مادر</h3>
+                            <p>جزئیات فنی DV-1 Mother Station</p>
+                            <div style="color: var(--accent); margin-top: 15px;">
+                                <i class="fas fa-external-link-alt"></i> dv1_mother_station/architecture.md
+                            </div>
+                        </a>
+                        
+                        <a href="#" class="doc-card">
+                            <div class="doc-icon">
+                                <i class="fas fa-map-marked"></i>
+                            </div>
+                            <h3>نقشه راه</h3>
+                            <p>مراحل توسعه و برنامه‌های آینده</p>
+                            <div style="color: var(--accent); margin-top: 15px;">
+                                <i class="fas fa-external-link-alt"></i> roadmap.md
+                            </div>
+                        </a>
+                    </div>
+                </section>
+                
+                <!-- نقشه راه -->
+                <section class="intro-section">
+                    <h2 class="section-title">
+                        <i class="fas fa-road"></i>
+                        نقشه راه (مرحله‌ای)
+                    </h2>
+                    
+                    <div style="display: flex; flex-direction: column; gap: 30px; margin-top: 30px;">
+                        <div style="display: flex; align-items: flex-start; gap: 20px; padding: 20px; background: #f8f9fa; border-radius: 15px; border-right: 5px solid var(--primary);">
+                            <div style="background: var(--primary); color: white; padding: 10px 20px; border-radius: 10px; font-weight: bold;">فاز ۱</div>
+                            <div>
+                                <h3 style="color: var(--primary); margin-bottom: 10px;">مفهوم‌سازی و معماری</h3>
+                                <p>تدوین اسناد مفهومی، معماری سطح بالا و تعریف چارچوب پروژه</p>
+                            </div>
+                        </div>
+                        
+                        <div style="display: flex; align-items: flex-start; gap: 20px; padding: 20px; background: #f8f9fa; border-radius: 15px; border-right: 5px solid var(--secondary);">
+                            <div style="background: var(--secondary); color: white; padding: 10px 20px; border-radius: 10px; font-weight: bold;">فاز ۲</div>
+                            <div>
+                                <h3 style="color: var(--secondary); margin-bottom: 10px;">شبیه‌سازی شبکه و ناوگان</h3>
+                                <p>مدل‌سازی شبکه‌ای، شبیه‌سازی ارتباطات و هماهنگی پهپادها</p>
+                            </div>
+                        </div>
+                        
+                        <div style="display: flex; align-items: flex-start; gap: 20px; padding: 20px; background: #f8f9fa; border-radius: 15px; border-right: 5px solid var(--accent);">
+                            <div style="background: var(--accent); color: white; padding: 10px 20px; border-radius: 10px; font-weight: bold;">فاز ۳</div>
+                            <div>
+                                <h3 style="color: var(--accent); margin-bottom: 10px;">خطوط داده و داشبورد</h3>
+                                <p>طراحی مفهومی خطوط داده، تجسم اطلاعات و رابط‌های مدیریت</p>
+                            </div>
+                        </div>
+                        
+                        <div style="display: flex; align-items: flex-start; gap: 20px; padding: 20px; background: #f8f9fa; border-radius: 15px; border-right: 5px solid var(--green);">
+                            <div style="background: var(--green); color: white; padding: 10px 20px; border-radius: 10px; font-weight: bold;">فاز ۴</div>
+                            <div>
+                                <h3 style="color: var(--green); margin-bottom: 10px;">همکاری علمی و اعتبارسنجی</h3>
+                                <p>همکاری با مراکز تحقیقاتی، انتشار مقالات و اعتبارسنجی مفاهیم</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+                                    
                              
